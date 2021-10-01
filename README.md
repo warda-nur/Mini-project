@@ -24,8 +24,7 @@ Things you may want to cover:
 * ...
 # Mini-project
 
-This is my mini project! It's pretty simple but hopefully I improve more in the future:)
-
+This is my simplenmini project!
 The API I used is from rawg and I made 5 enpoints with it.
 
 <img width="785" alt="Screen Shot 2021-09-30 at 9 10 08 PM" src="https://user-images.githubusercontent.com/81810809/135461540-ff4289d5-cea7-4789-a8d2-16c1a287ecd5.png">
@@ -40,5 +39,6 @@ The API I used is from rawg and I made 5 enpoints with it.
 
 
 ## this is it in postman! :)
-<img width="1242" alt="Screen Shot 2021-09-30 at 9 10 40 PM" src="https://user-images.githubusercontent.com/81810809/135461716-0dc08cf7-bb90-442a-8499-9ce2e776bdb6.png">
+<img width="1242" alt="Screen Shot 2021-09-30 at 9 10 40 PM" src="https://user-images.githubusercontent.com/81810809/135461716-0dc08cf7-bb90-442a-8499-9ce2e776bdb6.png"> 
+etc...
 
