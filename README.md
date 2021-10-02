@@ -22,7 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Mini-project
+# API Wrapper Mini-project
+
+Resources: https://api.rawg.io/docs/#operation/developers_read
+https://rawg.io/@wardanur/apikey
 
 This is my simple mini project!
 The API I used is from rawg and I made 5 enpoints with it.
