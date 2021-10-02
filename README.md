@@ -24,6 +24,6 @@ The API I used is from rawg and I made 5 enpoints with it.
 <img width="1242" alt="Screen Shot 2021-09-30 at 9 10 40 PM" src="https://user-images.githubusercontent.com/81810809/135461716-0dc08cf7-bb90-442a-8499-9ce2e776bdb6.png"> 
 etc...
 
-If want to try in rails console just code
- Rawg::Client.creator_roles
+## On rails console
+ - Rawg::Client.creator_roles
 
