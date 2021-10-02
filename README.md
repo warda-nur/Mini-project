@@ -2,7 +2,8 @@
 
 # API Wrapper Mini-project
 
-Resources: https://api.rawg.io/docs/#operation/developers_read 
+Resources: 
+- https://api.rawg.io/docs/#operation/developers_read 
 - https://rawg.io/@wardanur/apikey
 
 This is my simple mini project!
