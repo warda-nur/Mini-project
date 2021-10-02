@@ -1,6 +1,6 @@
 # README
 
-# API Wrapper Mini-project
+# API Wrapper Mini Project
 
 Resources: 
 - https://api.rawg.io/docs/#operation/developers_read 
