@@ -7,6 +7,8 @@ Resources:
 - https://rawg.io/@wardanur/apikey
 
 ## My API Wrapper mini project!
+set up
+- bundle install
 
 <img width="785" alt="Screen Shot 2021-09-30 at 9 10 08 PM" src="https://user-images.githubusercontent.com/81810809/135461540-ff4289d5-cea7-4789-a8d2-16c1a287ecd5.png">
 <img width="737" alt="Screen Shot 2021-09-30 at 9 10 01 PM" src="https://user-images.githubusercontent.com/81810809/135461551-9df82891-39f0-4da6-8c3b-e6afc5dd92b8.png">
