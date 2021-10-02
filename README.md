@@ -8,6 +8,7 @@ Resources:
 
 ## My API Wrapper mini project!
 set up
+- git clone
 - bundle install
 
 <img width="785" alt="Screen Shot 2021-09-30 at 9 10 08 PM" src="https://user-images.githubusercontent.com/81810809/135461540-ff4289d5-cea7-4789-a8d2-16c1a287ecd5.png">
