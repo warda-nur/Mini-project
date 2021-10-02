@@ -7,7 +7,7 @@ Resources:
 - https://rawg.io/@wardanur/apikey
 
 ## My API Wrapper mini project!
-set up
+### set up
 - git clone
 - bundle install
 
