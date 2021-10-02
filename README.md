@@ -28,6 +28,7 @@ set up
 
 ## Postman
 <img width="1242" alt="Screen Shot 2021-09-30 at 9 10 40 PM" src="https://user-images.githubusercontent.com/81810809/135461716-0dc08cf7-bb90-442a-8499-9ce2e776bdb6.png"> 
+
 - localhost:3000/api/creator-roles
 - localhost:3000/api/games
 - localhost:3000/api/store-lists
